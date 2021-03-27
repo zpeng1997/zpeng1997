@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zpeng1997
-- 👀 I’m interested in backend、meachine learning and algorithm.
+- 👀 I’m interested in backend、machine learning and algorithm.
 - 🌱 I’m currently learning Go.
 - 📫 How to reach me zpeng1997@gmail.com
 
